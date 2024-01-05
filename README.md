@@ -4,7 +4,7 @@ This project represents a comprehensive application of the office and web skills
 
 ## Group Members
 - Zeghdani Salah eddine 232331406013
-- Gamouda Ryad Gamouda 232331601307
+- Gamouda Ryad 232331601307
 - Agoudjil Issam 232331553603
 - Rachedi Mohamed Ilyes 232331573020
 - Ait Meziane El Moataz Bellah Amir 232331517811
